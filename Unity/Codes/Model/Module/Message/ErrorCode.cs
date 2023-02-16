@@ -21,5 +21,6 @@ namespace ET
         public const int ERR_AccountInBlackListError = 200006;//账号处于黑名单中
         public const int ERR_LoginPasswordError = 2000007;//登录密码错误
         public const int ERR_RequestRepeatedly = 2000008;//请求重复
+        public const int ERR_TokenError = 2000009;//令牌Token错误
     }
 }
